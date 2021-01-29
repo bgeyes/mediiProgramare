@@ -1,0 +1,8 @@
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\bin\Debug\netstandard2.0\Notes.DB.deps.json
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\bin\Debug\netstandard2.0\Notes.DB.dll
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\bin\Debug\netstandard2.0\Notes.DB.pdb
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\obj\Debug\netstandard2.0\Notes.DB.AssemblyInfoInputs.cache
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\obj\Debug\netstandard2.0\Notes.DB.AssemblyInfo.cs
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\obj\Debug\netstandard2.0\Notes.DB.csproj.CoreCompileInputs.cache
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\obj\Debug\netstandard2.0\Notes.DB.dll
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.DB\obj\Debug\netstandard2.0\Notes.DB.pdb

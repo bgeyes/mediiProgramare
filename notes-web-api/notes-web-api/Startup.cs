@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Notes.Core;
+using Notes.DB;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +28,18 @@ namespace notes_web_api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddDbContext<AppDBContext>();
+
+            services.AddTransient<INotesServices, NotesServices>();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("NotesPolicy", builder =>
+                {
+                    builder.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,6 +53,8 @@ namespace notes_web_api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("NotesPolicy");
 
             app.UseAuthorization();
 

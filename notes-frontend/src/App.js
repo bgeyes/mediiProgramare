@@ -8,7 +8,7 @@ const App = () => {
     <div className="App">
       <h3>My Notes</h3>
       <div style={{ maxWidth: '70%', margin: 'auto' }}>
-        <div style={{ textAlign: 'right' }}>
+        <div style={{ textAlign: 'right', marginBottom: '30px' }}>
           <NewNoteModal />
         </div>
         <NotesTable />

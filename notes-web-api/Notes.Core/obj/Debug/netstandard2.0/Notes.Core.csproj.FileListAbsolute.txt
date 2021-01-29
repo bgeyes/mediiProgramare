@@ -1,0 +1,12 @@
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\bin\Debug\netstandard2.0\Notes.Core.deps.json
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\bin\Debug\netstandard2.0\Notes.Core.dll
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\bin\Debug\netstandard2.0\Notes.Core.pdb
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\bin\Debug\netstandard2.0\Notes.DB.dll
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\bin\Debug\netstandard2.0\Notes.DB.pdb
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.csprojAssemblyReference.cache
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.AssemblyInfoInputs.cache
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.AssemblyInfo.cs
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.csproj.CoreCompileInputs.cache
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.csproj.CopyComplete
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.dll
+D:\Projects\UBB\medii de programare\notes-app\notes-web-api\Notes.Core\obj\Debug\netstandard2.0\Notes.Core.pdb
